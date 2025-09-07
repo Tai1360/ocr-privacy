@@ -21,9 +21,9 @@ This repo hosts public policy pages required for Meta App Review and general tra
 
 Replace `<username>` with your GitHub username (or your custom domain).
 
-- Privacy Policy: `https://<username>.github.io/ocr-privacy/privacy.html`
-- Terms of Service: `https://<username>.github.io/ocr-privacy/terms.html`
-- Data Deletion: `https://<username>.github.io/ocr-privacy/delete.html`
+- Privacy Policy: `https://<Tai1360>.github.io/ocr-privacy/privacy.html`
+- Terms of Service: `https://<Tai1360>.github.io/ocr-privacy/terms.html`
+- Data Deletion: `https://<Tai1360>.github.io/ocr-privacy/delete.html`
 
 ### Deploy steps (GitHub Pages)
 1. Settings → **Pages** → Source: `Deploy from branch`
