@@ -19,7 +19,7 @@ This repo hosts public policy pages required for Meta App Review and general tra
 
 ## 🔗 Live Pages (GitHub Pages)
 
-Replace `<username>` with your GitHub username (or your custom domain).
+Replace `<Tai1360>` with your GitHub username (or your custom domain).
 
 - Privacy Policy: `https://<Tai1360>.github.io/ocr-privacy/privacy.html`
 - Terms of Service: `https://<Tai1360>.github.io/ocr-privacy/terms.html`
